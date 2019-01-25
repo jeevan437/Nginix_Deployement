@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b02f9ed3-d097-4f33-b2a3-acf82ca397c4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Nginix_Deployement.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/.idea/Nginix_depApp.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_depApp/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_depApp/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_depApp/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_depApp/wsgi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/Nginix_test/views.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nginix_depApp/manage.py" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
